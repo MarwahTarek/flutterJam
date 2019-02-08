@@ -47,7 +47,7 @@ class MyHomePage extends StatelessWidget {
               ),
               ListTile(
                 title: Text(
-                  'Detail Screen',
+                  'Thanks Screen',
                   textScaleFactor: 1.2,
                 ),
                 onTap: () {
